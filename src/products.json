@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Silver Süryani Kolye",
+    "price": 98,
+    "image": "https://productimages.hepsiburada.net/s/1/375/9519655092274.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Altın Yonca Kolye",
+    "price": 1200,
+    "image": "https://www.altinaski.com/nazar-boncuklu-yonca-rose-altin-kolye-14kly2493-3356-25-K.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Gökkuşağı Kolye",
+    "price": 90,
+    "image": "https://www.gumustakidunyasi.com/images/thumbs/0024490_altin-kaplama-zirkon-tasli-gokkusagi-gumus-bayan-kolye_550.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Doğum Taşı ( Ruby ) Kolye",
+    "price": 140,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMMYj9WAvenjWEszr-FkMBKz5jLiz4ahxnQA&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "title": "Nazarlı Yıldız Kolye",
+    "price": 219.0,
+    "image": "https://www.dalkuyumculuk.com/image/cache/catalog/product/DSCF2409-925x1000.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Şans Kolyesi",
+    "price": 194,
+    "image": "https://www.indigotaki.com/nazarli-altin-kaplama-gumus-sans-kolyesi-gumus-tasli-kolye-indigo-taki-108766-35-B.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Altın Kelebek Kolye",
+    "price": 1500,
+    "image": "https://www.abidinkuyumculuk.com/i/l/000/0005511_altin-kelebek-kolye-iz098.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Kar Tanesi Kolye",
+    "price": 150,
+    "image": "https://www.lovapirlanta.com/images/model/buyuk/2040167-pirlanta-buyuk-kar-tanesi-kolye.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Papatya Kolye",
+    "price": 200,
+    "image": "https://www.tekbirsilver.com/gumus-sirali-papatya-kolye-10074-42-B.jpg"
+  }
+]

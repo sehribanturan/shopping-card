@@ -1,0 +1,47 @@
+.product {
+
+border: 1px solid #f3f0fe;
+border-radius: 5px;
+box-shadow: 0px 0px 5px grey;
+margin-right: 60px;
+margin-top: 40px;
+padding: 7x;
+   
+    &__photo{
+width: 200px;
+height:200px;
+margin-bottom:30px;
+}
+  &__info{
+text-align: center;
+background-color: hsl(270, 38%, 43%);
+width: 200px;
+height: 60px;
+position: absolute;
+margin-top:-60px;
+border-radius: 0px 0px 5px 5px;
+}
+  &__p {
+font-weight: bold;
+color: white;
+margin-top:-1px;
+}
+  &__count{
+display: flex;
+justify-content: center;
+align-items: center;
+ }
+  &__button{
+cursor: pointer;
+background-color:white;
+border: 1px solid white;
+box-shadow: 0px 0px 5px 1px grey;
+border-radius: 5px;
+font-size: 20px;
+color: #4e73df;
+margin: 5px;
+ }  
+      
+ 
+
+}

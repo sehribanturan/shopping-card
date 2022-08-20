@@ -1,0 +1,19 @@
+.app{
+background-color: aliceblue;
+
+&__productContainer{
+    display: flex;
+ margin-left: 30px; 
+  
+
+}
+&__productBox{
+    display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 70%;
+  padding: 20px;
+  
+}
+
+}
